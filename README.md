@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @divyark08
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C language
+- 🌱 I’ve learnt C language and basics of JAVA.
 - 💞️ I’m looking to collaborate on projects and internships.
 - 📫 How to reach me insta ID divya_r_k08
 
